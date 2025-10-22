@@ -1,3 +1,2 @@
-#Git and Github Lab featureB B B
+#Git and Github Lab - feature A version
 
-#Lab objectives
