@@ -1,2 +1,2 @@
-#Git and Github Lab - feature B version
+#Git and Github Lab - feature A version
 
